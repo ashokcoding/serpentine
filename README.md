@@ -1,6 +1,9 @@
-# SERPENTINE
 [![DOI](https://zenodo.org/badge/498388422.svg)](https://zenodo.org/badge/latestdoi/498388422)
+[![Python versions](https://img.shields.io/badge/python-3.10_--_3.13-blue)]()
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![website](https://img.shields.io/badge/Project%20Website-blue)](https://serpentine-h2020.eu)
 
+# SERPENTINE
 
 This repository contains the Python tools and software developed by the [solar energetic particle analysis platform for the inner heliosphere (SERPENTINE)](https://serpentine-h2020.eu/) project for the downloading of data and the performing of analysis and visualisation.
 
